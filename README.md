@@ -1,5 +1,4 @@
 - Project Title: "GreenHive"
-- !! NOT FULLY FUNCTIONAL JUST TO SHOWCASE IDEA !!
 
 - Project Description: Explain that this is an application connecting food waste producers with local composters to reduce landfill waste and help the environment
 
