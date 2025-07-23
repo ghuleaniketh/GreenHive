@@ -10,6 +10,8 @@ CREATE TABLE users (
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
+
+
 CREATE TABLE locations (
     location_id INT AUTO_INCREMENT PRIMARY KEY,
     user_id INT NOT NULL,
