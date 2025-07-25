@@ -24,6 +24,7 @@ CREATE TABLE locations (
     FOREIGN KEY (user_id) REFERENCES users(user_id)
 );
 
+
 CREATE TABLE waste_types (
     waste_type_id INT AUTO_INCREMENT PRIMARY KEY,
     name VARCHAR(100) NOT NULL,
